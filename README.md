@@ -12,7 +12,4 @@ I'm a Software Engineer, Technical Writer, and Technical Coordinator who current
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing ukadavid7@gmail.com.
 
----
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ukadavid&show_icons=true&include_all_commits=true&hide_border=true" alt="Tobe's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukadavid&langs_count=8&layout=compact&hide_border=true" alt="Tobe's GitHub stats" /> |
-| ------------- | ------------- |
