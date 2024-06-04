@@ -7,7 +7,7 @@ I'm a Software Engineer, Technical Writer, and Technical Coordinator who current
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I write code in JavaScript, Typescript, C#, NodeJS, Reactjs, ReactTS, and Python.
+- 🌱 I write code in C#, JavaScript, Typescript, NodeJS, NestJS, Reactjs, ReactTS, and Python.
 - 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer.
 - 📫 You can contact me by emailing ukadavid7@gmail.com.
 
